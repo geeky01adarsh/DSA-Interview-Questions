@@ -27,6 +27,8 @@
 |22. | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |Pending|
 
 ### Medium
+| S.No. | Question | Solution |
+|----| --------------- | -------- |
 |1. | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |Pending|
 |2. | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |Pending|
 |3. | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |Pending|
