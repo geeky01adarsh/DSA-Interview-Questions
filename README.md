@@ -4,4 +4,4 @@
 
 | S.No. | Topic | Status |
 |---|--------------|-----|
-|01. | [Array](https://github.com/geeky01adarsh/DSA-Interview-Questions/tree/main/Arrays) | 6/28 |
+|01. | [Array](https://github.com/geeky01adarsh/DSA-Interview-Questions/tree/main/Arrays) | 8/28 |
