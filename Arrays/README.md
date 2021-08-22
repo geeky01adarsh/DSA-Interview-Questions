@@ -14,7 +14,7 @@
 |9. | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/create_target_array_in_given_order.cpp)|
 |10. | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/pangram_String.cpp)|
 |11. | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/count_elements_matching_rule.cpp)|
-|12. | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |Pending|
+|12. | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/highest_altitude.cpp)|
 |13. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |Pending|   
 |14. | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) |Pending|
 |15. | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) |Pending|
