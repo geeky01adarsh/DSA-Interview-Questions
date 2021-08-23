@@ -10,12 +10,12 @@
 |5. | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/shuffle_the_Array.cpp)|
 |6. | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/kids_with_greatest_no_of_candies.cpp)|
 |7. | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/no_of_good_pairs.cpp)|
-|8. | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/no_smaller_than_curr_no.cpp)|
+|8. | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/cells_with_odd_values.cpp)|
 |9. | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/create_target_array_in_given_order.cpp)|
 |10. | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/pangram_String.cpp)|
 |11. | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/count_elements_matching_rule.cpp)|
 |12. | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/highest_altitude.cpp)|
-|13. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |Pending|   
+|13. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/flipping_an_image.cpp)|   
 |14. | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/flipping_an_image.cpp)|
 |15. | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) |Pending|
 |16. | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Pending|
