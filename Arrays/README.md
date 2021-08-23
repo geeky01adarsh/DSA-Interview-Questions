@@ -16,8 +16,8 @@
 |11. | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/count_elements_matching_rule.cpp)|
 |12. | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/highest_altitude.cpp)|
 |13. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/flipping_an_image.cpp)|   
-|14. | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/flipping_an_image.cpp)|
-|15. | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) |Pending|
+|14. | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/cells_with_odd_values.cpp)|
+|15. | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/matrix_diagonal_sum.cpp)|
 |16. | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Pending|
 |17. | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |Pending|
 |18. | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |Pending|
