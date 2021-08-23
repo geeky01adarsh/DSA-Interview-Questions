@@ -20,7 +20,7 @@
 |15. | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/matrix_diagonal_sum.cpp)|
 |16. | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/no_of_no_witth_even_no_of_digits.cpp)|
 |17. | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/matrix_transpose.cpp)|
-|18. | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |Pending|
+|18. | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/add_to_array_form_of_int.cpp)|
 |19. | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) |Pending|
 |20. | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) |Pending|
 |21. | [Two Sum](https://leetcode.com/problems/two-sum/) |Pending|
