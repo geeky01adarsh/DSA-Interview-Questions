@@ -4,7 +4,6 @@
 |S.no.|Question|Solution|
 |---|------------|------------|
 |1|[Square Root](https://leetcode.com/problems/sqrtx/)|Pending|
-|| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Pending|
 |2| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|Pending|
 |3| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Pending|
 |4| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Pending|
@@ -20,6 +19,8 @@
 |14| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|Pending|
 |15| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|Pending|
 |16| [Binary Search](https://leetcode.com/problems/binary-search/)|Pending|
+|17| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Pending|
+
 
 ## Medium
 |S.no.|Question|Solution|
