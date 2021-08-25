@@ -22,7 +22,7 @@
 |17. | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/matrix_transpose.cpp)|
 |18. | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/add_to_array_form_of_int.cpp)|
 |19. | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/maximum_population_year.cpp)|
-|20. | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) |Pending|
+|20. | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) |[Solution](/can_matrix_obtained_by_turning.cpp)|
 |21. | [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/two_sum.cpp)|
 |22. | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |[Solution](https://github.com/geeky01adarsh/DSA-Interview-Questions/blob/main/Arrays/find_n_unique_integers_sum_upto_0.cpp)|
 
