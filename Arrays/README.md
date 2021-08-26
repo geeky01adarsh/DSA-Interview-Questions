@@ -31,7 +31,7 @@
 |----| --------------- | -------- |
 |1. | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |[Solution](/Arrays/spiral_matrix.cpp)|
 |2. | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |Pending|
-|3. | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |Pending|
+|3. | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[Solution](product_of_array_except_self.cpp)|
 |4. | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |Pending|
 |5. | [Jump Game](https://leetcode.com/problems/jump-game/) |Pending|
 |6. | [Rotate Array](https://leetcode.com/problems/rotate-array/) |Pending|
