@@ -1,6 +1,6 @@
 # DSA based questions for interviews
-## All questions are from Leetcode along with the solution.
-### Question List is used from Kunal Khushwaha's Complete DSA Course's assignment
+## All questions are the most rated questions on Leetcode and are hereby provided along with solution along with the solution.
+
 
 | S.No. | Topic | Status |
 |---|--------------|-----|
