@@ -7,7 +7,7 @@
 |2| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](first_bad_version.cpp)|
 |3| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](two_sum_ii_input_array_is_sorted.cpp)|
 |4| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](valid_perfect_square.cpp)|
-|5| [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)|Pending|
+|5| [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)|[Solution](arranging_coin.cpp)|
 |6| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|Pending|
 |7| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|Pending|
 |8| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Pending|
