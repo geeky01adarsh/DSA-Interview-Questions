@@ -4,7 +4,7 @@
 |S.no.|Question|Solution|
 |---|------------|------------|
 |1|[Square Root](https://leetcode.com/problems/sqrtx/)|[Solution](sqrt.cpp)|
-|2| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|Pending|
+|2| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](two_sum_ii_input_array_is_sorted.cpp)|
 |3| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Pending|
 |4| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Pending|
 |5| [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)|Pending|
