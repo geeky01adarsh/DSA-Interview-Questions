@@ -12,9 +12,9 @@
 |7| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Solution](kth_missing_positive_no.cpp)|
 |8| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](search_insert_position.cpp)|
 |9| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](peak_in_mountain.cpp)|
-|10| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](Count negatives)|
-|11| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Pending|
-|12| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Pending|
+|10| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](count_negatives.cpp)|
+|11| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](intersection_of_two_arrays_i.cpp)|
+|12| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](intersection_of_two_arrays_ii.cpp)|
 |13| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|Pending|
 |14| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|Pending|
 |15| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|Pending|
