@@ -30,7 +30,7 @@
 |25.| [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|Pending|
 |26.| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|Pending|
 |27.| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|Pending|
-
+|28.| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |Pending|
 
 
 ## Medium
