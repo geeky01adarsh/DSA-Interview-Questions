@@ -11,8 +11,8 @@
 |6| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](smallest_letter_greater_than_target.cpp)|
 |7| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Solution](kth_missing_positive_no.cpp)|
 |8| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](search_insert_position.cpp)|
-|9| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Pending|
-|10| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|Pending|
+|9| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Solution](peak_in_mountain.cpp)|
+|10| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](Count negatives)|
 |11| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Pending|
 |12| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Pending|
 |13| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|Pending|
