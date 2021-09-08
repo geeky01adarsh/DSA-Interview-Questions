@@ -4,6 +4,6 @@
 
 | S.No. | Topic | Status |
 |---|--------------|-----|
-|01. | [Array](https://github.com/geeky01adarsh/DSA-Interview-Questions/tree/main/Arrays) | 24/28 |
-|02. | [Searching](/Searching)|14/38|
+|01. | [Array](/Arrays) | 24/28 |
+|02. | [Searching](/Searching)|15/38|
 |03. | [Sorting](/Sorting)|0/38|
