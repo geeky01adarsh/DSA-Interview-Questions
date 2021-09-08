@@ -18,8 +18,8 @@
 |13| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|Pending|
 |14| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|Pending|
 |15| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|Pending|
-|16| [Binary Search](https://leetcode.com/problems/binary-search/)|Pending|
-|17| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Pending|
+|16| [Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](binary_search.cpp)|
+|17| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Solution](guess_no_higher_lower.cpp)|
 
 
 ## Medium
