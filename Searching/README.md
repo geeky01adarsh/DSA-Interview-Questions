@@ -15,7 +15,7 @@
 |10| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](count_negatives.cpp)|
 |11| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](intersection_of_two_arrays_i.cpp)|
 |12| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](intersection_of_two_arrays_ii.cpp)|
-|13| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|Pending|
+|13| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Solution](fair_candy_swap.cpp)|
 |14| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](check_if_n_and_its_double_exist.cpp)|
 |15| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Solution](special_array_with_x_elements_greater_than_or_equal_x.cpp)|
 |16| [Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](binary_search.cpp)|
