@@ -53,8 +53,8 @@ int main()
         cin >> temp;
         y.push_back(temp);
     }
-    vector<int> ans = fairCandySwap(x,y);
-    for(auto i:ans)
-    cout<<i<<" ";
-    cout<<endl;
+    vector<int> ans = fairCandySwap(x, y);
+    for (auto i : ans)
+        cout << i << " ";
+    cout << endl;
 }
