@@ -5,5 +5,5 @@
 | S.No. | Topic | Status |
 |---|--------------|-----|
 |01. | [Array](/Arrays) | 24/28 |
-|02. | [Searching](/Searching)|15/38|
+|02. | [Searching](/Searching)|16/38|
 |03. | [Sorting](/Sorting)|0/38|

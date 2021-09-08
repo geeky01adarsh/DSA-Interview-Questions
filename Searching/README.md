@@ -17,7 +17,7 @@
 |12| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](intersection_of_two_arrays_ii.cpp)|
 |13| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|Pending|
 |14| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](check_if_n_and_its_double_exist.cpp)|
-|15| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|Pending|
+|15| [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Solution](special_array_with_x_elements_greater_than_or_equal_x.cpp)|
 |16| [Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](binary_search.cpp)|
 |17| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Solution](guess_no_higher_lower.cpp)|
 
