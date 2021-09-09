@@ -30,7 +30,7 @@
 |3| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Pending|
 |4| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Pending|
 |5| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Pending|
-|6| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Pending|
+|6| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](peak_ele.cpp)|
 |7| [Find Right Interval](https://leetcode.com/problems/find-right-interval/)|Pending|
 |8| [Reach a Number](https://leetcode.com/problems/reach-a-number/)|Pending|
 |9| [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)|Pending|
