@@ -12,7 +12,7 @@
 |07.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Pending|
 |08.|[Rotate String](https://leetcode.com/problems/rotate-string/)|Pending|
 |09.|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Pending|
-|10.|[Long Pressed Name | Faulty Keyboard](https://leetcode.com/problems/long-pressed-name/)|Pending|
+|10.|[Long Pressed Name/Faulty Keyboard](https://leetcode.com/problems/long-pressed-name/)|Pending|
 |11.|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|Pending|
 |12.|[Add Strings](https://leetcode.com/problems/add-strings/)|Pending|
 |13.|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|Pending|
