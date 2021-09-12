@@ -6,5 +6,5 @@
 |---|--------------|-----|
 |01. | [Array](/Arrays) | 24/28 |
 |02. | [Searching](/Searching)|21/38|
-|03. | [Sorting](/Sorting)|0/38|
+|03. | [Sorting](/Sorting)|03/38|
 |04. | [Strings](/String)|0/29|

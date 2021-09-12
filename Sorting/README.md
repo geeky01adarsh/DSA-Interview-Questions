@@ -4,7 +4,7 @@
 |S.no.|Question|Solution|
 |---|------------|------------|
 |01.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](merge_sorted_array.cpp)|
-|02.| [Majority Element](https://leetcode.com/problems/majority-element/)|[Solution]|
+|02.| [Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](majority_ele.cpp)|
 |03.| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](contains_duplicate.cpp)|
 |04.| [Missing Number](https://leetcode.com/problems/missing-number/)|Pending|
 |05.| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Pending|
