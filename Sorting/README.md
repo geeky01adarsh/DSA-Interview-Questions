@@ -3,9 +3,9 @@
 ## Easy
 |S.no.|Question|Solution|
 |---|------------|------------|
-|01.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Pending|
-|02.| [Majority Element](https://leetcode.com/problems/majority-element/)|Pending|
-|03.| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Pending|
+|01.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](merge_sorted_array.cpp)|
+|02.| [Majority Element](https://leetcode.com/problems/majority-element/)|[Solution]|
+|03.| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](contains_duplicate.cpp)|
 |04.| [Missing Number](https://leetcode.com/problems/missing-number/)|Pending|
 |05.| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Pending|
 |06.| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Pending|

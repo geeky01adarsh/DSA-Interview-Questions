@@ -3,10 +3,10 @@ using namespace std;
 
 bool containsDuplicate(vector<int> &nums)
 {
-    // approch 1 using unordered set
+    // approch 1 using unordered set and stl
     // return nums.size() > unordered_set<int>(nums.begin(), nums.end()).size();
     
-    //  approach 2-efficient approach
+    //  approach 2- efficient approach
     sort(nums.begin(), nums.end());
     for (int i = 1; i < nums.size(); i++)
     {
