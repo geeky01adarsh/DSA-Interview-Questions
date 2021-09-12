@@ -6,8 +6,8 @@
 |01.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](merge_sorted_array.cpp)|
 |02.| [Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](majority_ele.cpp)|
 |03.| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](contains_duplicate.cpp)|
-|04.| [Missing Number](https://leetcode.com/problems/missing-number/)|Pending|
-|05.| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Pending|
+|04.| [Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](intersection_of_two_arrays_i.cpp)|
+|05.| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](intersection_of_two_arrays_i.cpp)|
 |06.| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Pending|
 |07.| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Pending|
 |08.| [Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Pending|
