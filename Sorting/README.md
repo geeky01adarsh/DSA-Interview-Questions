@@ -9,7 +9,7 @@
 |04.| [Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](missing_no.cpp)|
 |05.| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](intersection_of_two_arrays_i.cpp)|
 |06.| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](intersection_of_two_arrays_ii.cpp)|
-|07.| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Pending|
+|07.| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](third_maximum_no.cpp)|
 |08.| [Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Pending|
 |09.| [Array Partition I](https://leetcode.com/problems/array-partition-i/)|Pending|
 |10.| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|Pending|
