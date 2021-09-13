@@ -12,7 +12,7 @@
 |07.| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](third_maximum_no.cpp)|
 |08.| [Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Pending|
 |09.| [Array Partition I](https://leetcode.com/problems/array-partition-i/)|Pending|
-|10.| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|Pending|
+|10.| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Solution](maximum_product_of_3_no.cpp)|
 |11.| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|Pending|
 |12.| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|Pending|
 |13.| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|Pending|
