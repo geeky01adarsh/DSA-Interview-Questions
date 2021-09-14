@@ -4,7 +4,7 @@
 
 | S.No. | Topic | Status |
 |---|--------------|-----|
-|01. | [Array](/Arrays) | 24/28 |
+|01. | [Array](/Arrays) | 28/28 |
 |02. | [Searching](/Searching)|21/38|
 |03. | [Sorting](/Sorting)|07/38|
 |04. | [Strings](/String)|0/29|
