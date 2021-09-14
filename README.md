@@ -1,5 +1,5 @@
 # DSA based questions for interviews
-## All questions are the most rated questions on Leetcode and are hereby provided along with solution along with the solution.
+## All questions are the most rated questions on Leetcode provided by Kunal Kushwaha and are hereby provided along with solution along with the solution.
 
 
 | S.No. | Topic | Status |
