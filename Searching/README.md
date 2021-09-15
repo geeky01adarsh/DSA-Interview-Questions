@@ -27,7 +27,7 @@
 |---|------------|------------|
 |1| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](find_first_and_last_position_of_element_in_sorted_array.cpp)|
 |2| [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](single_element_in_sorted_array.cpp)|
-|3| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Pending|
+|3| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](search_in_rotated_array.cpp)|
 |4| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Pending|
 |5| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](min_in_rotated_arr.cpp)|
 |6| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](peak_ele.cpp)|
