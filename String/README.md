@@ -5,7 +5,7 @@
 |---|------------|------------|
 |01.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](palindrome.cpp)|
 |02.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](anagram.cpp)|
-|03.|[Reverse String](https://leetcode.com/problems/reverse-string/)|Pending|
+|03.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](reverse_string.cpp)|
 |04.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Pending|
 |05.|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|Pending|
 |06.|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|Pending|
