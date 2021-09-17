@@ -3,7 +3,7 @@
 ## Easy
 |S.no.|Question|Solution|
 |---|------------|------------|
-|01.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Pending|
+|01.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](palindrome.cpp)|
 |02.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Pending|
 |03.|[Reverse String](https://leetcode.com/problems/reverse-string/)|Pending|
 |04.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Pending|
