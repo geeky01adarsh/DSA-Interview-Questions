@@ -4,7 +4,7 @@
 |S.no.|Question|Solution|
 |---|------------|------------|
 |01.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](palindrome.cpp)|
-|02.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Pending|
+|02.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](anagram.cpp)|
 |03.|[Reverse String](https://leetcode.com/problems/reverse-string/)|Pending|
 |04.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Pending|
 |05.|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|Pending|
