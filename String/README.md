@@ -10,7 +10,7 @@
 |05.|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](excel_sheet_col_title.cpp)|
 |06.|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Solution](no_of_segments_in_string.cpp)|
 |07.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](first_unique_char.cpp)|
-|08.|[Rotate String](https://leetcode.com/problems/rotate-string/)|Pending|
+|08.|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Solution](rotate_string.cpp)|
 |09.|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Pending|
 |10.|[Long Pressed Name/Faulty Keyboard](https://leetcode.com/problems/long-pressed-name/)|Pending|
 |11.|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|Pending|
