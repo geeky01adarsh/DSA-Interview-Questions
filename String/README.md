@@ -8,7 +8,7 @@
 |03.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](reverse_string.cpp)|
 |04.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](excel_sheet_col_no.cpp)|
 |05.|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](excel_sheet_col_title.cpp)|
-|06.|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|Pending|
+|06.|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Solution](no_of_segments_in_string.cpp)|
 |07.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Pending|
 |08.|[Rotate String](https://leetcode.com/problems/rotate-string/)|Pending|
 |09.|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Pending|
